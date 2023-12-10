@@ -20,7 +20,7 @@
 ### About Me
 - 👨🏼‍💻 I'm a Computer Science and Engineering Student
 - 📚 I am pursuing my B.C.A degree at [VIMAL TORMAL PODDAR BCA COLLEGE](https://vtpoddar.com/)
-- 👻 I love web development and UI designing
+- 👻 I love Android Application development and UI designing
 
 ---
 
