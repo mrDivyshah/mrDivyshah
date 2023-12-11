@@ -10,6 +10,9 @@
   <a href="https://instagram.com/divyshah2266?igshid=YzAwZjE1ZTI0Zg==">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/divy.shah.7186">
+    <img src="https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white"/>
+  </a>
 <!--   <a href="https://open.spotify.com/user/14ptdiqc63emp5ddhjhl00zhr">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a> -->
