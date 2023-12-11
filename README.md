@@ -51,6 +51,6 @@
 <div>
   
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrDivyshah&theme=dark)](https://git.io/streak-stats) -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrDivyshah&theme=transparent&hide_border=true&border_radius=5.2&card_width=997" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrDivyshah&theme=transparent&hide_border=true&border_radius=5.2&card_width=897" alt="GitHub Streak" /></a>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrDivyshah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
