@@ -7,9 +7,9 @@
   <a href="https://www.linkedin.com/in/divy-shah-36a533239/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!--   <a href="https://www.youtube.com/channel/UCYxNDsXX1XLQNuaAdyHaP0Q">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a> -->
+  <a href="https://instagram.com/divyshah2266?igshid=YzAwZjE1ZTI0Zg==">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
 <!--   <a href="https://open.spotify.com/user/14ptdiqc63emp5ddhjhl00zhr">
     <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
   </a> -->
