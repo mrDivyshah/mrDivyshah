@@ -13,44 +13,45 @@
   <a href="https://www.facebook.com/divy.shah.7186">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
-<!--   <a href="https://open.spotify.com/user/14ptdiqc63emp5ddhjhl00zhr">
-    <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
-  </a> -->
 </div>
 
 ---
 
 ### About Me
-- 👨🏼‍💻 I'm a Computer Science and Engineering Student
-- 📚 I am pursuing my B.C.A degree at [VIMAL TORMAL PODDAR BCA COLLEGE](https://vtpoddar.com/)
-- 👻 I love Android Application development and UI designing
+- 👨🏼‍💻 I'm a Computer Science and Engineering Enthusiast
+- 🎓 I have completed my **B.C.A** from [VIMAL TORMAL PODDAR BCA COLLEGE](https://vtpoddar.com/)
+- 📚 Currently pursuing **M.C.A** at **SCET College**
+- 👻 Passionate about **Android Application Development** and **UI Designing**
 
 ---
 
 ### Languages and Tools
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="flutter" alt="flutter" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="php" alt="php" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github"  alt="github" width="40" height="40" />&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub"  alt="GitHub" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" **alt="figma" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp; 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp; 
 </div>
 
 ---
 
 ### My Stats
 <div>
-  
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mrDivyshah&theme=dark)](https://git.io/streak-stats) -->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mrDivyshah&theme=transparent&hide_border=true&border_radius=5.2&card_width=897" alt="GitHub Streak" /></a>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrDivyshah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mrDivyshah&theme=transparent&hide_border=true&border_radius=5.2&card_width=897" alt="GitHub Streak" />
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrDivyshah&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+  </a>
 </div>
